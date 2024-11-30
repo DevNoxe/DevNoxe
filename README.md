@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevNoxe
-- 👀 I’m interested in python pojects
+- 👀 I’m interested in python projects
 - 🌱 I’m currently learning python and js
 
 <!---
